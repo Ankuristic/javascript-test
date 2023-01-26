@@ -6,3 +6,15 @@ function common_substring(arr1){
     return a1.subString(0,i)
 }
 console.log(common_substring('ankur'));
+
+
+function listofInteger(arr, target){
+    let arr1, arr2;
+
+    // if(k==0 && i== arr.length){
+
+    // }
+     arr = arr1+arr2;
+    return  arr+target;
+
+}
